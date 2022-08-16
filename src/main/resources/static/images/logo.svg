@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="168.47" height="60.115" viewBox="0 0 168.47 60.115">
+  <defs>
+    <filter id="XMLID_47_" x="0" y="0" width="42.94" height="42.615" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_695" data-name="Group 695" transform="translate(561.22 -9853.122)">
+    <g transform="matrix(1, 0, 0, 1, -561.22, 9853.12)" filter="url(#XMLID_47_)">
+      <path id="XMLID_47_2" data-name="XMLID_47_" d="M205.813,389.594l7.031,6.556-3.728,4L198.6,390.207l10.142-10.876,3.553,3.313Z" transform="translate(166.21 -397.95) rotate(47)" fill="#f54c4c"/>
+    </g>
+    <text id="Rental" transform="translate(-538.75 9895.237)" fill="#3b3b3b" font-size="30" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">RENTAL</tspan></text>
+    <g id="Group_693" data-name="Group 693">
+      <text id="Association" transform="translate(-467.75 9909.237)" fill="#f90b0b" font-size="14" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Association</tspan></text>
+    </g>
+  </g>
+</svg>
